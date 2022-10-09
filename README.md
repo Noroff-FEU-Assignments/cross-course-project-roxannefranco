@@ -39,12 +39,6 @@ Process includes:
 git clone git@github.com:NoroffFEU/portfolio-1-example.git
 ```
 
-2. Install the dependencies:
-
-```
-npm install
-```
-
 ### Running
 
 To run the app, run the following commands:
